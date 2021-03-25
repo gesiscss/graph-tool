@@ -1,0 +1,5 @@
+name: graph_tool_env
+channels:
+  - conda-forge
+dependencies:
+  - graph-tool
